@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "562870161347",
+    "project_id": "artisthub-15cf8",
+    "storage_bucket": "artisthub-15cf8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562870161347:android:2a4b1f6a772a4d19c03776",
+        "android_client_info": {
+          "package_name": "com.example.artisthub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "562870161347-90dgvvc0b4fdkvcd8m6pckoe5rat8vii.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.artisthub",
+            "certificate_hash": "b56dd204eaef5b092cd4747249454a397f0b5cc9"
+          }
+        },
+        {
+          "client_id": "562870161347-8cpvvl47ocbqknmpo5lh7m8ra8l21g2f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6sap47hKXdZMSWW4PPCL0SYTJOSq7-Tg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "562870161347-8cpvvl47ocbqknmpo5lh7m8ra8l21g2f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
