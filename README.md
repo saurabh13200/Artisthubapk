@@ -1,6 +1,7 @@
 # artisthub
 
-A new Flutter project.
+ it is a e-commerce application for specific selling artwork and to run that you need to install the flutter Sdk, android application.
+ There is also admin side, for backend, we used fire base.
 
 ## Getting Started
 
