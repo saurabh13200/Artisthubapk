@@ -3,6 +3,10 @@
  it is a e-commerce application for specific selling artwork and to run that you need to install the flutter Sdk, android application.
  There is also admin side, for backend, we used fire base.
 
+## Flutter version 3.13.3
+##  Dart 3.1.0
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
