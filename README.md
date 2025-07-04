@@ -8,7 +8,17 @@
 
 Images:- 
 
-<img src="https://github.com/saurabh13200/Artisthubapk/blob/main/screenshot_1.png?raw=true" alt="screenshot" width="300"/>
+<h3>Screenshots</h3>
+
+<table>
+  <tr>
+    <td><img src="https://github.com/saurabh13200/Artisthubapk/blob/main/screenshot_5.png?raw=true" alt="screenshot_5" width="200"/></td>
+    <td><img src="https://github.com/saurabh13200/Artisthubapk/blob/main/screenshot_2.png?raw=true" alt="screenshot_2" width="200"/></td>
+    <td><img src="https://github.com/saurabh13200/Artisthubapk/blob/main/screenshot_4.png?raw=true" alt="screenshot_4" width="200"/></td>
+    <td><img src="https://github.com/saurabh13200/Artisthubapk/blob/main/screenshot_3.png?raw=true" alt="screenshot_3" width="200"/></td>
+  </tr>
+</table>
+
 
 
 ## Getting Started
